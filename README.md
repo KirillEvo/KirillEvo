@@ -1,5 +1,5 @@
 # Привет! Я Кирилл и добро пожаловать на мой GitHub
-## Окончила [Yandex.Practicum](https://practicum.yandex.ru/web/) :computer:
+## Окончил [Yandex.Practicum](https://practicum.yandex.ru/web/) :computer:
 
 ### :heavy_check_mark: Мой kyu на codewars:
 [![codewars](https://www.codewars.com/users/KirillEvo/badges/large)](https://www.codewars.com/users/KirillEvo)
