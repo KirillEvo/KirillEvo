@@ -16,7 +16,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![Modx](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![Modx](https://img.shields.io/badge/-Modx-090909?style=for-the-badge&logo=Modx)
 
 # Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/https://t.me/kdvoryaninov)
