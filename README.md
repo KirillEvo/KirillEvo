@@ -1,4 +1,4 @@
-# Привет! Я Кирилл и добро пожаловать на мой GitHub
+# Привет! Добро пожаловать на мой GitHub
 ## Окончил [Yandex.Practicum](https://practicum.yandex.ru/web/) :computer:
 
 ### :heavy_check_mark: Мой kyu на codewars:
