@@ -24,6 +24,6 @@
 
 # Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/https://t.me/kdvoryaninov)
-[![ВKontakte](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=VK)](https://vk.com/sayonara_python)
+[![ВKontakte](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=VK)](https://vk.com/kirilljsx)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillEvo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
